@@ -5,6 +5,22 @@ body {
 }
 
 h1 {
-  color: #f5f3f3;
+    color: #ff99cc;
+    font-size: 60px;
+}
+
+h3 {
+    color: #ff99cc;
+}
+
+h4 {
+    color: #ff99cc;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+}
+
+p {
+    color:#ff99cc
 }
 
